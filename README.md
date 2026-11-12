@@ -6,9 +6,9 @@
 
 Building dependable infrastructure, practical internal tools, and secure, maintainable systems.
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Vahidkh69-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vahidkh69)
-![Focus](https://img.shields.io/badge/Focus-Infrastructure%20%26%20Automation-238636?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-1f6feb?style=for-the-badge)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Vahidkh69-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vahidkh69)
+![Focus](https://img.shields.io/badge/Focus-Infrastructure%20%26%20Automation-2da44e?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-0969da?style=for-the-badge)
 
 </div>
 
@@ -49,8 +49,8 @@ I enjoy connecting the dots between operations and development: solving real inf
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Vahidkh69&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="Vahid's GitHub statistics" height="175" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vahidkh69&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" height="175" />
+<img src="https://github-stats-extended.vercel.app/api?username=Vahidkh69&show_icons=true&theme=default&hide_border=false&include_all_commits=true&rank_icon=github" alt="Vahid's GitHub statistics" height="175" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vahidkh69&layout=compact&theme=default&hide_border=false&langs_count=8" alt="Most used programming languages" height="175" />
 
 </div>
 
