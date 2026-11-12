@@ -49,8 +49,8 @@ I enjoy connecting the dots between operations and development: solving real inf
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vahidkh69&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="Vahid's GitHub statistics" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vahidkh69&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" height="175" />
+<img src="https://github-stats-extended.vercel.app/api?username=Vahidkh69&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="Vahid's GitHub statistics" height="175" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vahidkh69&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" height="175" />
 
 </div>
 
