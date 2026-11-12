@@ -36,11 +36,22 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Switch README to locally generated cards
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path("README.md")
+          s = p.read_text()
+          s = s.replace("https://github-stats-extended.vercel.app/api?username=Vahidkh69&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github", "./profile/stats.svg")
+          s = s.replace("https://github-stats-extended.vercel.app/api/top-langs/?username=Vahidkh69&layout=compact&theme=github_dark&hide_border=true&langs_count=8", "./profile/top-langs.svg")
+          p.write_text(s)
+          PY
+
       - name: Commit refreshed SVG cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg profile/top-langs.svg
+          git add profile/stats.svg profile/top-langs.svg README.md
           if ! git diff --cached --quiet; then
             git commit -m "Refresh profile statistics"
             git push
